@@ -96,3 +96,6 @@ Interpretação de métricas de regressão
 📌 Conclusão
 
 O projeto demonstra a construção de um pipeline completo de dados até modelagem preditiva, aplicando técnicas de Machine Learning a um problema real de precificação imobiliária.
+
+<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/be6043b0-f250-481d-bdf8-18bfd8d33afc" />
+
