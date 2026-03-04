@@ -80,7 +80,7 @@ ML_Imobiliario/
 ├── train_model.py
 ├── requirements.txt
 └── README.md
-🧠 Principais Aprendizados
+ Principais Aprendizados
 
 Modelagem relacional aplicada a projetos de Data Science
 
